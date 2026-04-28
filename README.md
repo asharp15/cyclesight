@@ -4,7 +4,7 @@
 **Aiyana Sharpe**
 *Bioinformatics Scientist & Technical Lead*
 As the CTO, I Bridges genomic rigor with clinical workflow, leading technical development and assay design for a scalable, provider-friendly platform
-<img width="1984" height="2976" alt="IMG_0163" src="https://github.com/user-attachments/assets/8a9e7e04-80e4-414d-a81d-d644aea76380" />
+<img width="1756" height="996" alt="IMG_0163" src="https://github.com/user-attachments/assets/8a9e7e04-80e4-414d-a81d-d644aea76380" />
 
 
 
